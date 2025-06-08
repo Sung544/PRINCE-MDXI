@@ -1,6 +1,6 @@
-name: prince-mdxi
+name: Sung-MD
 services:
-  - name: prince-mdxi-service
+  - name: Sung-MD-service
     type: web
     ports:
       - 5000
