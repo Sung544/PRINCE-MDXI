@@ -1,12 +1,12 @@
 {
-  "name": "PRINCE-MDXI",
+  "name": "Sung-MD",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By PRINCE",
+  "description": "A WhatsApp Bot Created By Kanchi",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name PRINCE-MDXI",
-    "stop": "pm2 stop PRINCE-MDXI",
-    "restart": "pm2 restart PRINCE-MDXI"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Sung-MD",
+    "stop": "pm2 stop Sung-MD",
+    "restart": "pm2 restart Sung-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.16",
